@@ -6,8 +6,8 @@
         <dateModified>Fri, 23 May 2024 00:00:00 GMT</dateModified>
     </head>
     <body>
-        <!-- AI &amp; ML Engineering -->
-        <outline title="AI &amp; ML Engineering" text="AI &amp; ML Engineering">
+        <!-- AI / ML Engineering -->
+        <outline title="AI / ML Engineering" text="AI / ML Engineering">
             <!-- Core AI Engineering -->
             <outline text="Core AI Engineering" title="Core AI Engineering">
                 <outline type="rss" text="Simon Willison's Weblog" title="Simon Willison's Weblog"
@@ -26,8 +26,8 @@
                     xmlUrl="https://blog.eleuther.ai/index.xml" />
             </outline>
 
-            <!-- RAG &amp; Agents -->
-            <outline text="RAG &amp; Agents" title="RAG &amp; Agents">
+            <!-- RAG / Agents -->
+            <outline text="RAG / Agents" title="RAG / Agents">
                 <outline type="rss" text="LangChain Blog" title="LangChain Blog"
                     xmlUrl="https://blog.langchain.dev/rss/" htmlUrl="https://blog.langchain.dev/" />
                 <outline type="rss" text="LlamaIndex Blog" title="LlamaIndex Blog"
@@ -38,8 +38,8 @@
                     xmlUrl="https://weaviate.io/blog/rss.xml" />
             </outline>
 
-            <!-- Research &amp; Deep Learning -->
-            <outline text="Research &amp; Deep Learning" title="Research &amp; Deep Learning">
+            <!-- Research / Deep Learning -->
+            <outline text="Research / Deep Learning" title="Research / Deep Learning">
                 <outline type="rss" text="Andrej Karpathy (GitHub Blog)"
                     title="Andrej Karpathy (GitHub Blog)"
                     xmlUrl="https://karpathy.github.io/feed.xml"
@@ -163,8 +163,8 @@
                 xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" />
         </outline>
 
-        <!-- Products &amp; Ideas -->
-        <outline title="Products &amp; Ideas" text="Products &amp; Ideas">
+        <!-- Products / Ideas -->
+        <outline title="Products / Ideas" text="Products / Ideas">
             <outline text="Product Hunt — The best new products, every day"
                 title="Product Hunt — The best new products, every day" type="rss"
                 xmlUrl="http://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com" />
